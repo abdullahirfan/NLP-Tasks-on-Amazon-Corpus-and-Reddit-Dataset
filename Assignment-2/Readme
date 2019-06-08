@@ -1,0 +1,5 @@
+For Without stopwords run the following command:
+python.exe assignment2.py train_pos_no_stopword.csv train_neg_no_stopword.csv val_pos_no_stopword.csv val_neg_no_stopword.csv test_pos_no_stopword.csv test_neg_no_stopword.csv
+
+For With Stopwrods run the following command:
+python.exe assignment2.py training_pos.csv training_neg.csv validation_pos.csv validation_neg.csv test_pos.csv test_neg.csv
